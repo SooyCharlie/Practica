@@ -1,2 +1,2 @@
 # Hyperblog
-Un blog incleible para github
+Un blog incleible para github donde encontraras mi informacion personal
